@@ -1,8 +1,8 @@
 Intranets are private internal networks that increase the engagement of the employees to work together across roles, departments and locations.
 The main purposes of intranets are: 
--Easily getting information around to everyone
--Sportsmanship and teamwork of employees
--Speeding up task completion and workflow
+-  Easily getting information around to everyone
+-  Sportsmanship and teamwork of employees
+-  Speeding up task completion and workflow
 https://www.interactsoftware.com/blog/intranet-definition/
 There is a nice diagram to visually understand how an intranet works
 https://www.geeksforgeeks.org/what-is-intranet/
